@@ -1,0 +1,14 @@
+newDB:
+  name: "test1"
+  ip: "39.105.148.183"
+  port: "3306"
+  user: "root"
+  password: "qq2566551"
+oldDB:
+  name: "test2"
+  ip: "39.105.148.183"
+  port: "3306"
+  user: "root"
+  password: "qq2566551"
+linter:
+  - "checkSql"
