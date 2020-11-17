@@ -1,3 +1,10 @@
+/*.txt
+/*.pdf
+/*.pprof
+/.idea/
+/.vscode/
+*.test
+.DS_Store
+coverage.out
+coverage.xml
 config.yml
-venv/*
-main

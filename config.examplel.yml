@@ -1,0 +1,14 @@
+newDB:
+  name: "dbname"
+  ip: "ip"
+  port: "port"
+  user: "user"
+  password: "password"
+oldDB:
+  name: "dbname"
+  ip: "ip"
+  port: "port"
+  user: "user"
+  password: "password"
+linter:
+  - "checkSql"
